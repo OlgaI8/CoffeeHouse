@@ -1,0 +1,20 @@
+:root {
+
+    /* colors */
+
+    --font-color-dark: #403F3D;
+    --font-color-light: #E1D4C9;
+    --font-color-accent: #B0907A;
+
+    --bg-color-body: #E1D4C9;
+    --bg-border-color-dark: #665F55;
+    --border-color-light: #C1B6AD;
+    --bg-color-backdrop: rgba(64, 63, 61, 0.80);    
+
+    /* fonts */
+
+    --main-font-family: Inter, Verdana, sans-serif;
+    --main-font-style: normal;
+    --second-font-style: italic;
+    --font-feature-settings: 'clig' off, 'liga' off;
+}
